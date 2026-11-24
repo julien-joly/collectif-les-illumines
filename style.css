@@ -10,8 +10,8 @@
   --accent-hover: #b45309;   /* Ambre soutenu */
   --border-light: rgba(217, 119, 6, 0.15);
   --shadow-light: 0 10px 30px -5px rgba(217, 119, 6, 0.12);
-  --font-title: 'Cinzel', serif;
-  --font-body: 'Plus Jakarta Sans', sans-serif;
+  --font-title: 'Nunito', serif;
+  --font-body: 'Nunito', sans-serif;;
   --transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
